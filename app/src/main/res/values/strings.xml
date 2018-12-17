@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mdb</string>
+    <string name="trailer">Trailer</string>
+    <string name="reviews_label">Reviews</string>
+    <string name="trailers_label">Trailers</string>
+    <string name="synopsis_label">Synopsis</string>
+    <string name="release_date_label1">Release Date</string>
+    <string name="user_rating_label1">Rating</string>
+    <string name="sort_top_rate">Top Rate</string>
+    <string name="sort_favorite">Favorite</string>
+    <string name="sort_most_popular">Popular</string>
+    <string name="Error_NoMovieData">No Movie data</string>
+    <string name="api_key">0677abd1877b84a78fa4f4238791c0ef</string>
+</resources>
